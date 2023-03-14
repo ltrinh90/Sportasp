@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
+C:\Users\DELL\Documents\core điên\pro-asp.net-core-6-main\10 - SportsStore - 4\End of Chapter\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
